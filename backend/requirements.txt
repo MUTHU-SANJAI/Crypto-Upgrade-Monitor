@@ -1,0 +1,19 @@
+fastapi==0.110.2
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+python-multipart==0.0.9
+httpx==0.27.0
+
+# For CORS
+starlette==0.37.2
+
+# For logging (standard library)
+# For Twitter API (optional, for real implementation):
+# tweepy==4.14.0
+# For BERT sentiment (optional, for real implementation):
+# transformers==4.40.2
+# torch==2.3.0
+# For Prophet (optional, for real implementation):
+# prophet==1.1.5
+# For ARIMA (optional, for real implementation):
+# statsmodels==0.14.2 
